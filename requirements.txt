@@ -1,0 +1,7 @@
+numpy
+pandas
+plotly
+scikit-learn
+pickle
+flask
+json
